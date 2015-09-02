@@ -1,6 +1,9 @@
 # arcadian-kidney
 Indoor gardening automation for habeneros and tomatoes
 
+<B>Minimum requirements for prototype</B>
+
+
 
 wishlist<br>
 <br>text display outside grow cabinet with humidity, per plant soil moisture, temperature, last time watered, last time fed, current light status
