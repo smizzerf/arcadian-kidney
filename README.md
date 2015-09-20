@@ -1,5 +1,6 @@
 # arcadian-kidney
 Indoor gardening automation for habeneros and tomatoes
+Running on Arduino Uno initially
 
 <B>Minimum requirements for prototype</B>
 
@@ -17,4 +18,3 @@ wishlist<br>
 <br>ir lighting/nightshots for webcam feed
 <br>
 <br>
-Will run via Raspberry Pi B initially. May switch to teensy 3.1 or other *ino setup after initial prototype if feasable/needed
