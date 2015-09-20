@@ -3,6 +3,10 @@ Indoor gardening automation for habeneros and tomatoes
 Running on Arduino Uno initially
 
 <B>Minimum requirements for prototype</B>
+accurate time tables
+scheudled lighting
+scheduled watering
+temperature based fan controls
 
 
 
