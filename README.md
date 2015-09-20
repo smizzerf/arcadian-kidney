@@ -10,7 +10,7 @@ Indoor gardening automation for habeneros and tomatoes
 <br>
 <br>
 <br>
-wishlist<br>
+<B>wishlist<B><br>
 <br>text display outside grow cabinet with humidity, per plant soil moisture, temperature, last time watered, last time fed, current light status
 <br>web interface
 <br>email or text notices when low on supplies
