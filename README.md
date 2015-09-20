@@ -1,15 +1,15 @@
 # arcadian-kidney
 Indoor gardening automation for habeneros and tomatoes
-Running on Arduino Uno initially
+<br>Running on Arduino Uno initially
 
 <B>Minimum requirements for prototype</B>
-accurate time tables
-scheudled lighting
-scheduled watering
-temperature based fan controls
-
-
-
+<br>accurate time tables
+<br>scheudled lighting
+<br>scheduled watering
+<br>temperature based fan controls
+<br>
+<br>
+<br>
 wishlist<br>
 <br>text display outside grow cabinet with humidity, per plant soil moisture, temperature, last time watered, last time fed, current light status
 <br>web interface
